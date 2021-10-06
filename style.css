@@ -1,0 +1,13 @@
+.titles {
+    text-align: center;
+    background-color: green;
+}
+
+.button {
+    background-color: rgb(197, 167, 224);
+    font-size: 18px;
+}
+
+.button-text {
+    font-weight: bold;
+}
